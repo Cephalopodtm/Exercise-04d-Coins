@@ -1,6 +1,12 @@
-# Exercise-04d-Coins
+# Project 04 - 2D Platformer
 
 ## Implementation
+Additional Features - 
+2 different levels, one which is larger than the other
+A "main menu" to select which level to play
+Attention paid to start and end-game experience via main menu, hopefully
+A lock and key system
+Additional Decor to make the world more lively
 
 ## References
 
